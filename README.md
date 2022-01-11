@@ -1,5 +1,5 @@
 # Handcricket
- This repository consists of the traditional handcrciket game played in our childhood.
+ This repository consists of the traditional handcricket game played in our childhood.
  
 It's a two player game where the alternate being a batsman and a bowler. Who decides to do what is initially determined by a toss.
 
